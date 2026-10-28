@@ -79,10 +79,11 @@ CustomerChurnPrediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/sd-athar-irfan05/CustomerChurnPrediction.git
+
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
+
 
 ### 2. Open the Project Folder
 
